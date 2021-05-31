@@ -7,4 +7,4 @@ The objective of the game is to eat all of the dots placed in the maze while avo
 
 ## Result 
 
-![game image](https://github.com/mopao/pac-man-project/blob/main/readme/pacman.png)
+![game image](https://github.com/mopao/pac-man-project/blob/main/img/pacman.png)
